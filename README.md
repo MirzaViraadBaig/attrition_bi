@@ -7,4 +7,5 @@ This project was made using MS Excel and PowerBI using the dataset of HR departm
 -Categorize the employees by their deparments.
 
 
-![Capture](https://github.com/MirzaViraadBaig/attrition_bi/assets/99425354/0fc95aa2-2b18-4015-afab-ddeefc78f178)
+![Capture](https://github.com/MirzaViraadBaig/attrition_bi/assets/99425354/f6ffbe1e-1603-4d74-afd8-11e06fa657d8)
+
